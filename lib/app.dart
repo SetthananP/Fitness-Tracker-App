@@ -15,6 +15,8 @@ class FitnessApp extends StatelessWidget {
       home: DashboardView(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primaryColor: Colors.blue),
+      
+      // Configure app routes using GetX
       getPages: [
         GetPage(name: '/dashboard', page: () => DashboardView()),
         GetPage(name: '/workouts', page: () => WorkoutListView()),

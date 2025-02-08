@@ -29,11 +29,6 @@ class SettingsView extends StatelessWidget {
         padding: const EdgeInsets.all(16.0),
         child: Column(
           children: [
-            Obx(() => SwitchListTile(
-                  title: Text('Enable Notifications'),
-                  value: controller.notificationEnabled.value,
-                  onChanged: controller.toggleNotification,
-                )),
             Obx(() => Slider(
                   min: 1000,
                   max: 5000,

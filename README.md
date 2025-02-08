@@ -1,4 +1,4 @@
-# 📊 Fitness Tracker App
+# Fitness Tracker App
 
 ![Build Status](https://img.shields.io/badge/build-Complete-brightgreen)  
 The **Fitness Tracker App** is a Flutter application that helps users record and manage their expenses efficiently. It uses **Flutter GetX** for state management.

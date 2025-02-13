@@ -6,7 +6,8 @@ The **Fitness Tracker App** is a Flutter application that helps users record and
 ---
 
 ## ✨ Features
-- **Designed and developed core features:** adding, updating, deleting, and filtering tasks based on status.
+- **Designed key features:** adding and editing workout routines, tracking real-time progress, and displaying performance insights with dynamic visualizations.
+- Implemented reactive updates for user dashboards, including calorie tracking, step count, and goal progress
 
 
 ---
